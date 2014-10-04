@@ -1,4 +1,4 @@
-Block-O-Rama (Unity Game)
+Block-O-Rama (Unity)
 ============
 
 A simple block game wherein you have to control two blocks simultaenously while avoiding the falling blocks
